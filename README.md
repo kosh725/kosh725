@@ -1,8 +1,8 @@
 ## hey i'm kosh.
 
-transitioning into artificial intelligence and machine learning. 
+transitioning into artificial intelligence and machine learning through my masters in data science.
 
-### what i am currently building:
+### what i am currently building or doing:
 
  -> building out my [blog site](https://koshj.net) to document my thought processes on what and how i build things. this is a current work in progress as i setup my infrastructure to host my own content 
  
@@ -10,13 +10,7 @@ transitioning into artificial intelligence and machine learning.
  
  -> heavily interested in rags and am currently building a few native applications that take full advantage of it. currently in the process of training my own models that fully utilise this
  
- -> currently collecting data, but planning to buildi a classification based neural network that will run on my raspberry pi. 
-
-### what i current do:
-
- -> i currently work within an AI based startup as a software engineer leveraging AI technology in legally binded smart contracts
- 
- -> currently working on completing my masters in data science by the end of 2024.
+ -> currently collecting data, but planning to build a classification based neural network that will run on my raspberry pi. 
  
  -> building out my meme coffee site, where I express how mocha's should be made and where to find the best cafes in australia that produce them. 
  
