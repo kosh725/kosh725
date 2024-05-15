@@ -1,1 +1,1 @@
-how he does it -> [kosh.wrld](https://kosh.world/)
+how he does it -> [kosh.wrld](https://kosh.world/) 🥷
