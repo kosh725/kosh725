@@ -1,1 +1,1 @@
-:snowflake: [kosh.wrld](https://kosh.world/) 🥷 :snowflake:
+:snowflake: [kosh.wrld](https://kosh.world/) 🥷 
