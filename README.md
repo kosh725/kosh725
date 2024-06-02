@@ -1,1 +1,1 @@
-[kosh.wrld](https://kosh.world/) 🥷 
+🥷 [kosh.wrld](https://kosh.world/) 🥷 
